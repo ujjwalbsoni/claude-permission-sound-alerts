@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "PermissionRequest": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell.exe -File C:/Users/Administrator/.claude/sounds/approval/classic-approval.ps1"
+          }
+        ]
+      }
+    ]
+  }
+}
