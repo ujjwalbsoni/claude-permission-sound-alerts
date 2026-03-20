@@ -9,6 +9,10 @@ Instant audio notifications for Claude Code Permission Requests.
 - ⚙️ Uses Claude Code’s hook system
 - 🪶 Lightweight setup
 
+## Youtube Video
+
+https://youtu.be/cbVCdTyJN-c?si=IEekiC4k4O0T_qpP
+
 ## 🚀 How It Works
 Claude Code emits a `PermissionRequest` event whenever it needs approval. This repository adds a hook that plays a sound through a small script.
 
